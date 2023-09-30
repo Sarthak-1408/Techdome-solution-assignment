@@ -12,6 +12,7 @@ This project implements a simple web application for sentiment analysis using a 
 - `tokenizer.pickle`: Serialized tokenizer used for text preprocessing.
 - `app.py`: The main Streamlit web application script.
 - `requirements.txt`: List of Python dependencies for your project.
+- `Techdome_solution_assignment.ipynb`: Jypyter Notebook script for data prorcessing, model building and training.
 
 ## Usage
 1. **Clone the repository:**
