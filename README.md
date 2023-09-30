@@ -4,6 +4,9 @@ This Repository is only for assignment purpose that is provided by Techdome Solu
 ## Overview
 This project implements a simple web application for sentiment analysis using a deep learning model. Users can enter a text review, and the model will predict whether the sentiment is positive or negative.
 
+## Web App Demo
+Check out the deployed web app: https://techdome-solution-assignment.streamlit.app/
+
 ## Demo Image of Web app
 ![image](https://github.com/Sarthak-1408/Rain-Fall-Prediction/assets/72247049/b6338562-eac4-4b2e-b36d-49f19874254e)
 
@@ -28,7 +31,3 @@ This project implements a simple web application for sentiment analysis using a 
 
 ## Model Training
 If you need to retrain the model, refer to the training script and data in your Jupyter notebook or Python script. Update the model file and tokenizer accordingly.
-
-## Web App Demo
-Check out the deployed web app: https://techdome-solution-assignment.streamlit.app/
-
